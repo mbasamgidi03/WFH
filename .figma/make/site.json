@@ -1,0 +1,10 @@
+{
+  "description": "A professional portal for candidates and mentors to manage WFH requests, attendance, work logs, and status updates with streamlined workflows and clear communication.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
