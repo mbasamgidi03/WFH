@@ -12,7 +12,7 @@ The system is designed to simplify candidate monitoring and provide a central pl
 
 View the interactive prototype here:
 
-https://www.figma.com/make/vgnEUaic3kuh3zTBxewl51/Responsive-Web-App-Prototype--1---1---1-?t=8PgQLKXlUp9MVW4m-1
+[https://www.figma.com/make/vgnEUaic3kuh3zTBxewl51/Responsive-Web-App-Prototype--1---1---1-?t=8PgQLKXlUp9MVW4m-1](https://nebula-speck-61097231.figma.site)
 
 ## Main Features
 
